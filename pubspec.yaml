@@ -33,6 +33,11 @@ dependencies:
   fluttertoast: ^7.1.6
   webview_flutter: ^1.0.7
   http: ^0.12.2
+  flutter_offline: ^0.3.0
+
+dependency_overrides:
+  flutter_offline: ^0.3.0
+  connectivity: ^2.0.2
 
 dev_dependencies:
   flutter_test:

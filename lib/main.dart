@@ -1,4 +1,4 @@
-import 'package:dotslash_hackathon/screens/check_screen.dart';
+import 'package:dotslash_hackathon/screens/check_connectivity.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.teal,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: CheckScreen(),
+      home: CheckConnectivity(),
     );
   }
 }

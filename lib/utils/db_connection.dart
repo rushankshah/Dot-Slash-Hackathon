@@ -1,4 +1,3 @@
-import 'dart:convert';
 import 'package:dotslash_hackathon/models/User.dart';
 import 'package:http/http.dart' as http;
 
